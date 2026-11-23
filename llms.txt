@@ -1,0 +1,15 @@
+# PixelPilot
+
+> PixelPilot helps Malaysian SMEs get found on Google and in AI answers (ChatGPT, Gemini, Google AI): SEO, AI search (GEO), Google Ads and websites. Founded by Ken Wong. Contact: hello@pixelpilot.my
+
+## Services
+- [SEO](https://pixelpilot.my/seo/): rank for the searches your customers type on Google
+- [AI search](https://pixelpilot.my/ai-search/): get named when buyers ask ChatGPT, Gemini or Google's AI
+- [Google Ads](https://pixelpilot.my/google-ads/): reach people searching now, tracked by cost per enquiry
+- [Free search scan](https://pixelpilot.my/free-scan/): a free check of how a business shows up on Google and AI
+
+## Guides
+- [Google Business Profile: a simple setup guide for Malaysian SMEs.](https://pixelpilot.my/blog/google-business-profile-guide-malaysian-sme/): Your Google Business Profile is often the first thing a local customer sees. Here is how to set it up properly, step by step, for your Malaysian business.
+
+## Optional
+- [Privacy](https://pixelpilot.my/privacy.html)
